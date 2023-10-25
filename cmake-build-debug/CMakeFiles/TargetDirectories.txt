@@ -1,0 +1,3 @@
+/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug/CMakeFiles/untitled68.dir
+/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug/CMakeFiles/rebuild_cache.dir

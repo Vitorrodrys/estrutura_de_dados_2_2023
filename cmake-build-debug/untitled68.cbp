@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled68"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled68">
+				<Option output="/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug/untitled68" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled68"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled68/fast">
+				<Option output="/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug/untitled68" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled68/fast"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/vitor/CLionProjects/grafo_lista_adjacencia/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/vitor/CLionProjects/grafo_lista_adjacencia/grafo_comparation.c">
+			<Option target="untitled68"/>
+		</Unit>
+		<Unit filename="/home/vitor/CLionProjects/grafo_lista_adjacencia/grafo_comparation.h">
+			<Option target="untitled68"/>
+		</Unit>
+		<Unit filename="/home/vitor/CLionProjects/grafo_lista_adjacencia/graph.c">
+			<Option target="untitled68"/>
+		</Unit>
+		<Unit filename="/home/vitor/CLionProjects/grafo_lista_adjacencia/graph.h">
+			<Option target="untitled68"/>
+		</Unit>
+		<Unit filename="/home/vitor/CLionProjects/grafo_lista_adjacencia/input_output.c">
+			<Option target="untitled68"/>
+		</Unit>
+		<Unit filename="/home/vitor/CLionProjects/grafo_lista_adjacencia/input_output.h">
+			<Option target="untitled68"/>
+		</Unit>
+		<Unit filename="/home/vitor/CLionProjects/grafo_lista_adjacencia/list_vertex/list_vertex.c">
+			<Option target="untitled68"/>
+		</Unit>
+		<Unit filename="/home/vitor/CLionProjects/grafo_lista_adjacencia/list_vertex/list_vertex.h">
+			<Option target="untitled68"/>
+		</Unit>
+		<Unit filename="/home/vitor/CLionProjects/grafo_lista_adjacencia/list_vertex/no_vertex.c">
+			<Option target="untitled68"/>
+		</Unit>
+		<Unit filename="/home/vitor/CLionProjects/grafo_lista_adjacencia/list_vertex/no_vertex.h">
+			<Option target="untitled68"/>
+		</Unit>
+		<Unit filename="/home/vitor/CLionProjects/grafo_lista_adjacencia/main.c">
+			<Option target="untitled68"/>
+		</Unit>
+		<Unit filename="/home/vitor/CLionProjects/grafo_lista_adjacencia/matriz_adjacencia/grafo_matriz_adjacencia.c">
+			<Option target="untitled68"/>
+		</Unit>
+		<Unit filename="/home/vitor/CLionProjects/grafo_lista_adjacencia/matriz_adjacencia/grafo_matriz_adjacencia.h">
+			<Option target="untitled68"/>
+		</Unit>
+		<Unit filename="/home/vitor/CLionProjects/grafo_lista_adjacencia/memory_functions.c">
+			<Option target="untitled68"/>
+		</Unit>
+		<Unit filename="/home/vitor/CLionProjects/grafo_lista_adjacencia/memory_functions.h">
+			<Option target="untitled68"/>
+		</Unit>
+		<Unit filename="/home/vitor/CLionProjects/grafo_lista_adjacencia/respost_search/queue.c">
+			<Option target="untitled68"/>
+		</Unit>
+		<Unit filename="/home/vitor/CLionProjects/grafo_lista_adjacencia/respost_search/queue.h">
+			<Option target="untitled68"/>
+		</Unit>
+		<Unit filename="/home/vitor/CLionProjects/grafo_lista_adjacencia/respost_search/respost_search.c">
+			<Option target="untitled68"/>
+		</Unit>
+		<Unit filename="/home/vitor/CLionProjects/grafo_lista_adjacencia/respost_search/respost_search.h">
+			<Option target="untitled68"/>
+		</Unit>
+		<Unit filename="/home/vitor/CLionProjects/grafo_lista_adjacencia/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
